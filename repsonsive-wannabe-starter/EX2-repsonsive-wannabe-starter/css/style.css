@@ -155,6 +155,7 @@ img {
     }
     .why-us {
         background: #222222;
-        padding-top: 3rem;
+        padding: 3rem 0;
+        margin-bottom: 0;
     }
 }
